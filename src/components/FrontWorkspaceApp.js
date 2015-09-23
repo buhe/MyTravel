@@ -25,9 +25,11 @@ var FrontWorkspaceApp = React.createClass({
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>嘉峪关 2015-09-27-18-05</p>
+                <p><a href="http://j.map.baidu.com/M8OJD">嘉峪关地图</a></p>
               </Timeline.Item>
               <Timeline.Item>
                 <p>嘉峪关 住一晚 27 ~ 28日</p>
+                <p><a href="http://hotels.ctrip.com/hotel/jiayuguan326#ctm_ref=hod_hp_sb_lst">嘉峪关火车站酒店</a></p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>嘉峪关 2015-09-28-08-00</p>
@@ -37,9 +39,11 @@ var FrontWorkspaceApp = React.createClass({
               </Timeline.Item>
               <Timeline.Item color='red'>
                 <p>敦煌 莫高窟 2015-09-28-15-00</p>
+                <p><a href="http://www.mgk.org.cn/cinema/buyCustom.htm">莫高窟门票预订</a></p>
               </Timeline.Item>
               <Timeline.Item>
                 <p>敦煌 住一晚 28 ~ 29日</p>
+                <p><a href="http://hotels.ctrip.com/hotel/dunhuang11#ctm_ref=ctr_hp_sb_lst">敦煌酒店预订</a></p>
               </Timeline.Item>
               <Timeline.Item color='red'>
                 <p>敦煌 月牙泉 2015-09-29-08-00</p>
