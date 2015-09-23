@@ -11,6 +11,10 @@ html, body {
   margin: 50px auto auto auto;
 }
 
+.finish{
+  color: green;
+}
+
 /*.main img {*/
   /*width: 103px;*/
   /*height: 89px;*/
