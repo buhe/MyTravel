@@ -84,9 +84,15 @@ var FrontWorkspaceApp = React.createClass({
               <Timeline.Item color="green">
                 <p>额济纳 2015-09-30 14:00</p>
               </Timeline.Item>
+              <Timeline.Item>
+                <p>额济纳 住一晚 30日</p>
+              </Timeline.Item>
               <Timeline.Item color="red">
                 <p>额济纳 胡杨林 2015-10-01</p>
                 <p>全天</p>
+              </Timeline.Item>
+              <Timeline.Item>
+                <p>额济纳 住一晚 1日</p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>额济纳 2015-10-02 08:00</p>
@@ -107,6 +113,9 @@ var FrontWorkspaceApp = React.createClass({
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>伊宁 2015-10-03 19:15</p>
+              </Timeline.Item>
+              <Timeline.Item>
+                <p>伊宁 附近 住一晚 3日</p>
               </Timeline.Item>
               <Timeline.Item color="red">
                 <p>伊宁 赛木湖 2015-10-04</p>
