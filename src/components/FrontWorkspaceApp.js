@@ -37,9 +37,10 @@ var FrontWorkspaceApp = React.createClass({
                 <p>7527</p>
                 <p>5小时34分</p>
                 <p>硬座(400)</p>
+                <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>敦煌 2015-09-28 13:54</p>
+                <p>敦煌 2015-09-28 13:43</p>
               </Timeline.Item>
               <Timeline.Item color='red'>
                 <p>敦煌 月牙泉 2015-09-28</p>
@@ -48,6 +49,9 @@ var FrontWorkspaceApp = React.createClass({
                 <p>敦煌 住一晚 28日</p>
                 <p><a href="http://hotels.ctrip.com/hotel/dunhuang11#ctm_ref=ctr_hp_sb_lst">敦煌酒店预订</a></p>
                 <p><a href="http://hotels.ctrip.com/hotel/439448.html#ctm_ref=www_hp_bs_lst">敦煌飞天大酒店</a></p>
+                <p><a href="http://j.map.baidu.com/rcAcD">酒店具体位置</a></p>
+                <p><a href="http://j.map.baidu.com/d3AcD">敦煌站到酒店没有公交,11公里,联系下是否可以接站</a></p>
+                <p>0937-8853999</p>
                 <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color='red'>
@@ -61,6 +65,7 @@ var FrontWorkspaceApp = React.createClass({
                 <p>K9668</p>
                 <p>5小时05分</p>
                 <p>硬座(292)</p>
+                <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>酒泉 2015-09-30 00:09</p>
