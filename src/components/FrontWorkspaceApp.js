@@ -31,6 +31,9 @@ var FrontWorkspaceApp = React.createClass({
               <Timeline.Item>
                 <p>嘉峪关 住一晚 27日</p>
                 <p><a href="http://hotels.ctrip.com/hotel/jiayuguan326#ctm_ref=hod_hp_sb_lst">嘉峪关火车站酒店</a></p>
+                <p><a href="http://hotels.ctrip.com/hotel/1304345.html#ctm_ref=hod_sr_lst_dl_n_1_14">牧马人</a></p>
+                <p>0937-5967111</p>
+                <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>嘉峪关 2015-09-28 08:09</p>
@@ -76,57 +79,43 @@ var FrontWorkspaceApp = React.createClass({
               <Timeline.Item color="green">
                 <p>酒泉 2015-09-30 08:00</p>
                 <p>汽车</p>
-                <p>5小时</p>
+                <p>6小时</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>额济纳 2015-09-30 13:00</p>
-              </Timeline.Item>
-              <Timeline.Item color="red">
-                <p>额济纳 胡杨林 2015-09-30</p>
-                <p>半天</p>
+                <p>额济纳 2015-09-30 14:00</p>
               </Timeline.Item>
               <Timeline.Item color="red">
                 <p>额济纳 胡杨林 2015-10-01</p>
-                <p>半天</p>
+                <p>全天</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>额济纳 2015-10-01 11:00</p>
+                <p>额济纳 2015-10-02 08:00</p>
                 <p>汽车</p>
-                <p>5小时</p>
+                <p>6小时</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>酒泉 2015-10-01 16:00</p>
+                <p>酒泉 2015-10-02 14:00</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>嘉峪关 2015-10-01 17:00</p>
+                <p>嘉峪关 2015-10-02 15:00</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>嘉峪关 2015-10-01 20:59</p>
+                <p>嘉峪关 2015-10-02 20:59</p>
                 <p>T205</p>
-                <p>硬卧(130)</p>
-                <p>硬座(73)</p>
+                <p>双下铺</p>
                 <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="green">
-                <p>伊宁 2015-10-02 19:15</p>
-              </Timeline.Item>
-              <Timeline.Item>
-                <p>伊宁 住一晚 2日</p>
+                <p>伊宁 2015-10-03 19:15</p>
               </Timeline.Item>
               <Timeline.Item color="red">
-                <p>伊宁 赛木湖 2015-10-03</p>
-              </Timeline.Item>
-              <Timeline.Item>
-                <p>伊宁 附近 住一晚 3日</p>
-              </Timeline.Item>
-              <Timeline.Item color="red">
-                <p>伊宁 附近 草原 2015-10-04</p>
+                <p>伊宁 赛木湖 2015-10-04</p>
               </Timeline.Item>
               <Timeline.Item>
                 <p>伊宁 附近 住一晚 4日</p>
               </Timeline.Item>
               <Timeline.Item color="red">
-                <p>伊宁 附近 待定 2015-10-05</p>
+                <p>伊宁 附近 草原 2015-10-05</p>
               </Timeline.Item>
               <Timeline.Item>
                 <p>伊宁 附近 住一晚 5日</p>
