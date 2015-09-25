@@ -32,7 +32,7 @@ var FrontWorkspaceApp = React.createClass({
                 <p>嘉峪关 住一晚 27日</p>
                 <p><a href="http://hotels.ctrip.com/hotel/jiayuguan326#ctm_ref=hod_hp_sb_lst">嘉峪关火车站酒店</a></p>
                 <p><a href="http://hotels.ctrip.com/hotel/1304345.html#ctm_ref=hod_sr_lst_dl_n_1_14">牧马人</a></p>
-                <p>0937-5967111</p>
+                <p><a href="tel:0937-5967111"></a>0937-5967111</p>
                 <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="green">
