@@ -54,7 +54,7 @@ var FrontWorkspaceApp = React.createClass({
                 <p><a href="http://hotels.ctrip.com/hotel/439448.html#ctm_ref=www_hp_bs_lst">敦煌飞天大酒店</a></p>
                 <p><a href="http://j.map.baidu.com/rcAcD">酒店具体位置</a></p>
                 <p><a href="http://j.map.baidu.com/d3AcD">敦煌站到酒店没有公交,11公里,联系下是否可以接站</a></p>
-                <p>0937-8853999</p>
+                <p><a href="tel:0937-8853999">0937-8853999</a></p>
                 <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color='red'>
@@ -81,13 +81,16 @@ var FrontWorkspaceApp = React.createClass({
                 <p>汽车</p>
                 <p>6小时</p>
                 <p className='finish'>淘宝代购 完成</p>
-                <p>18748315998</p>
+                <p><a href="tel:18748315998">18748315998</a></p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>额济纳 2015-09-30 14:00</p>
               </Timeline.Item>
               <Timeline.Item>
                 <p>额济纳 住一晚 30日</p>
+                <p><a href="http://hotels.ctrip.com/hotel/1199961.html#ctm_ref=www_hp_bs_lst">额济纳旗胡杨人家民俗客栈</a></p>
+                <p><a href="tel:13948037333">13948037333</a></p>
+                <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="red">
                 <p>额济纳 胡杨林 2015-10-01</p>
@@ -95,13 +98,16 @@ var FrontWorkspaceApp = React.createClass({
               </Timeline.Item>
               <Timeline.Item>
                 <p>额济纳 住一晚 1日</p>
+                <p><a href="http://hotels.ctrip.com/hotel/1199961.html#ctm_ref=www_hp_bs_lst">额济纳旗胡杨人家民俗客栈</a></p>
+                <p><a href="tel:13948037333">13948037333</a></p>
+                <p className='finish'>完成</p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>额济纳 2015-10-02 08:00</p>
                 <p>汽车</p>
                 <p>6小时</p>
                 <p className='finish'>淘宝代购 完成</p>
-                <p>18748315998</p>
+                <p><a href="tel:18748315998">18748315998</a></p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>酒泉 2015-10-02 14:00</p>
