@@ -80,6 +80,8 @@ var FrontWorkspaceApp = React.createClass({
                 <p>酒泉 2015-09-30 08:00</p>
                 <p>汽车</p>
                 <p>6小时</p>
+                <p className='finish'>淘宝代购 完成</p>
+                <p>18748315998</p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>额济纳 2015-09-30 14:00</p>
@@ -98,6 +100,8 @@ var FrontWorkspaceApp = React.createClass({
                 <p>额济纳 2015-10-02 08:00</p>
                 <p>汽车</p>
                 <p>6小时</p>
+                <p className='finish'>淘宝代购 完成</p>
+                <p>18748315998</p>
               </Timeline.Item>
               <Timeline.Item color="green">
                 <p>酒泉 2015-10-02 14:00</p>
